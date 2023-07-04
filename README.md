@@ -8,4 +8,4 @@ Tech Stack
 
 - In this Big Data project, we build an AWS S3 Data Lake and design and develop ETL in AWS Glue using Spark ETL Jobs.
 - We use Amazon SNS for generating alerts and SparkSQL and Amazon Athena to run SQL queries.
-- Lastly, you will learn to use Amazon QuickSight to build BI dashboards.
+- Lastly, we use Amazon QuickSight to build BI dashboards.
